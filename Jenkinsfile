@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "evaristo/fastapi-deploy"
+    dockerimagename = "evaristofm/fastapi-deploy"
     dockerImage = ""
   }
 
